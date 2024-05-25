@@ -1,0 +1,13 @@
+body {
+    background-color: white;
+    font-family: "Roboto", "Times New Roman", sans-serif;
+    text-align: center;
+}
+
+#experiences {
+background-color: lightblue;
+}
+
+#projects {
+    background-color: lightgreen;
+}
